@@ -19,6 +19,7 @@
 ## 目标用户群
 - 
 ## 用户画像及使用场景
+![avatar](https://gitee.com/Kevin-Kevin/image/raw/master/Robot%20Delivery/Robot-Delivery%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F1.png)
 - Joe:一位上班族男子，因工作日白天上班，不在家无法取快递，快递员也有工作时间，晚上也会下班，于是Joe在手机上打开Robot-Delivery app，在app查看自己的快递件，在app上预约取件时间，机器人就会根据Joe预约的时间准时送货上门，这样Joe就可以在下班后取快递了。
 - Erin:
 # 七、人工智能概率性与用户痛点
