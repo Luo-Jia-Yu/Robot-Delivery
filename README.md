@@ -28,7 +28,7 @@
 ### 用户画像及使用场景
 ![avatar](https://gitee.com/Kevin-Kevin/image/raw/master/Robot%20Delivery/Robot-Delivery%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F1.png)
 - Joe:一位上班族男子，因工作日白天上班，不在家无法取快递，快递员也有工作时间，晚上也会下班，于是Joe在手机上打开Robot-Delivery app，在app查看自己的快递件，在app上预约取件时间，机器人就会根据Joe预约的时间准时送货上门，这样Joe就可以在下班后取快递了。
-![avatar](https://gitee.com/Kevin-Kevin/image/blob/master/Robot%20Delivery/Robot-Delivery%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F2.png)
+![avatar](https://gitee.com/Kevin-Kevin/image/raw/master/Robot%20Delivery/Robot-Delivery%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F2.png)
 - Erin:一位25岁的白领女士，周末放假在家等快递配送，因天气原因，外面一直下着暴雨，快递员因暴雨原因无法配送，于是Erin打开手机预约Robot-Delivery上门配送。
 # 七、人工智能概率性与用户痛点
 - 人工智能比以往的技术冲击范围更广、力度更大、持续性更长，甚至可能导致极化。人工智能未来30年内将几乎完全取代人力，根据牛津大学提供的数据：未来职业中快递员被人工智能取代的概率为90%。
@@ -45,6 +45,12 @@
 |123455678|212345567|312345567|
 
 # 九、产品结构图
+- 产品功能结构图
+![avatar](https://gitee.com/Kevin-Kevin/image/raw/master/Robot%20Delivery/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+- 产品结构图
+![avatar](https://gitee.com/Kevin-Kevin/image/raw/master/Robot%20Delivery/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+- 用户流程图
+![avatar](https://gitee.com/Kevin-Kevin/image/raw/master/Robot%20Delivery/%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 # 十、数据推理
 # 十一、产品原型及交互界面设计
 # 十二、信息设计
